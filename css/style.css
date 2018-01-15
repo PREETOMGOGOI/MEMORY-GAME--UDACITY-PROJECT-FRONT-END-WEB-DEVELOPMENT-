@@ -1,0 +1,137 @@
+html{
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before{
+    box-sizing: inherit;
+}
+
+html,
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(/images/color.jpg);
+    font-family: Coda, cursive;    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-family: 'open-sans', sans-serif;
+    font-weight: bolder;
+    font-style: oblique;    
+    color: dodgerblue;
+}
+
+.deck{
+    width: 660px;
+    min-height: 660px;
+    background: linear-gradient(220deg, #02ccba 0%, #aa7ecd 100%);opacity:0.8;
+    padding: 32px;
+    border-radius: 7%;
+    box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 3em;
+}
+
+.deck .card{
+    height: 120px;
+    width: 120px;
+    background: skyblue;
+    border-radius: 20%;
+    font-size: 0;
+    color: #ffffff;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 2px 20px 0 rgba(46, 61, 73, 0.5);
+}
+
+.deck .card.open{
+    transform: rotateY(0);
+    background: #02b3e4;
+    cursor: default;
+}
+
+.deck .card.show{
+    font-size: 28px;
+}
+
+.deck .card.match{
+    cursor: default;
+    background: #02ccba;
+    font-size: 28px;
+}
+
+/*
+ * Styles for the Score Panel
+ */
+
+
+.score-panel {
+    display: flex;
+    text-align: left;
+    width: 345px;
+}
+
+.score-panel .stars {
+    display: inline;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    margin: 0 2em 0 0;
+    float: left;
+}
+
+.score-panel .stars li {
+    list-style: none;
+    display: inline-block;
+}
+
+.score-panel .restart {
+    position: relative;
+    font-size: 28px;
+    cursor: pointer;
+    margin: 0 0 0 3em;
+}
+
+#timer{
+    position: relative;
+    margin: 0 0 0 .5em;
+}
+
+/* Styles for modal*/
+.modal {
+    display: none;
+    width: 500px;
+    height: 500px;
+    padding: 5%;
+    font-size: 1em;
+    position: fixed; 
+    z-index: 1; 
+    background-color: rgba(200,200,200,0.5); 
+    text-align: center;
+    margin: 0 0 5em 0;
+}
+.modal.show {
+    display: block; 
+}
+.modal.hide {
+    display: none;
+}
