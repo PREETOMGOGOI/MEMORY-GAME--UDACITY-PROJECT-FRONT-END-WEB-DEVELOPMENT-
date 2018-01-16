@@ -1,15 +1,15 @@
-#FRONT-END NANODEGREE(UDACITY project)-MEMORY GAME
+# FRONT-END NANODEGREE(UDACITY project)-MEMORY GAME
 
-#This is a browser based game that has been created using -HTML, CSS ,jQuery, Javascript.
+# This is a browser based game that has been created using -HTML, CSS ,jQuery, Javascript.
 
 
-##Running the Game
+## Running the Game
 
-Open the file 'index.html' in a code editor and run it in a browser.
+* Open the file 'index.html' in a code editor and run it in a browser.
 
-##Game Instructions:
+## Game Instructions:
 
-###Game display
+### Game display
 
 1.) A square board with 16 individual cards will be visible.
 2.) Each card has a picture hidden behind it.
@@ -20,7 +20,7 @@ Open the file 'index.html' in a code editor and run it in a browser.
 	c.)	Right center -- Restart Button.
 	d.) Top right position -- Timer.
 
-###How to Play??
+### How to Play??
 1.) To start the game - Click on the first card you want to open.
 2.) You have to match all the sixteen cards. 
 3.) The timer ticks off as soon as the game starts.
