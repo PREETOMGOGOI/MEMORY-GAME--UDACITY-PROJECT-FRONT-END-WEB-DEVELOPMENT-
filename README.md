@@ -12,14 +12,14 @@
 ### GAME-BOARD
 ![GAME BOARD](https://github.com/PREETOMGOGOI/UDACITY-PROJECTS-FRONT-END-WEB-DEVELOPER-/blob/master/images/gameImage.png)
 
-1.) A square board with 16 individual cards will be visible.
-2.) Each card has a picture hidden behind it.
-3.) Two cards will have same picture hidden behind them.
-4.) On the top parameter, deciding your winning factor will be visible:
-	a.) Top left position -- Star ratings.
-	b.) Left center -- Total number of moves made.
-	c.)	Right center -- Restart Button.
-	d.) Top right position -- Timer.
+* A square board with 16 individual cards will be visible.
+* Each card has a picture hidden behind it.
+* Two cards will have same picture hidden behind them.
+* On the top parameter, deciding your winning factor will be visible:
+	** Top left position -- Star ratings.
+	** Left center -- Total number of moves made.
+	**	Right center -- Restart Button.
+	** Top right position -- Timer.
 
 ### How to Play??
 1.) To start the game - Click on the first card you want to open.
