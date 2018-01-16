@@ -28,8 +28,8 @@
 * Openning two different cards is considered as on move.
 * Your game is rated base  on time taken and and number of moves made:
 	
-	a.) 3 Star Rating -  Complete within 22 seconds and 13 moves.
-	b.) 2 Star Rating -  Complete within 34 seconds and 18 moves.
-	c.) 1 Star Rating -  Complete within 42 seconds and 24 moves.
+	* 3 Star Rating -  Complete within 22 seconds and 13 moves.
+	* 2 Star Rating -  Complete within 34 seconds and 18 moves.
+	* 1 Star Rating -  Complete within 42 seconds and 24 moves.
 
 You can restart the game by clicking on the restart button. 
