@@ -115,6 +115,10 @@ h1{
     position: relative;
     margin: 0 0 0 .5em;
 }
+/*Dummy timer to view the time taken to win*/
+#dummy_timer{
+    display:none;
+}
 
 /* Styles for modal*/
 .modal {
@@ -135,3 +139,4 @@ h1{
 .modal.hide {
     display: none;
 }
+
