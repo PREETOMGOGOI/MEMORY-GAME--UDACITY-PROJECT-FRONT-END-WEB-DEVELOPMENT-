@@ -22,11 +22,11 @@
 	* Top right position -- Timer.
 
 ### How to Play??
-1.) To start the game - Click on the first card you want to open.
-2.) You have to match all the sixteen cards. 
-3.) The timer ticks off as soon as the game starts.
-4.) Openning two different cards is considered as on move.
-5.) Your game is rated base  on time taken and and number of moves made:
+* To start the game - Click on the first card you want to open.
+* You have to match all the sixteen cards. 
+* The timer ticks off as soon as the game starts.
+* Openning two different cards is considered as on move.
+* Your game is rated base  on time taken and and number of moves made:
 	
 	a.) 3 Star Rating -  Complete within 22 seconds and 13 moves.
 	b.) 2 Star Rating -  Complete within 34 seconds and 18 moves.
