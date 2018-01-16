@@ -61,6 +61,8 @@ $('.card').click(function(event) {
 			while(closeCards.length=0){
 			closeCards.pop(value1);}
 			count=0;
+			totalMoves-=1;
+			Moves-=17;
  		}
  	
 	if (count===1) {
@@ -91,6 +93,7 @@ $('.card').click(function(event) {
  			count=1;
  			openCards.pop(value);
  			closeCards.pop(value);
+			totalMoves-=1;
  		}
  		
  		else if (count===2 && $(this).hasClass('match')) {
