@@ -9,8 +9,8 @@
 
 ## Game Instructions:
 
-### Game display
-(https://github.com/PREETOMGOGOI/UDACITY-PROJECTS-FRONT-END-WEB-DEVELOPER-/blob/master/images/gameImage.png)
+### GAME-BOARD
+![GAME BOARD](https://github.com/PREETOMGOGOI/UDACITY-PROJECTS-FRONT-END-WEB-DEVELOPER-/blob/master/images/gameImage.png)
 
 1.) A square board with 16 individual cards will be visible.
 2.) Each card has a picture hidden behind it.
