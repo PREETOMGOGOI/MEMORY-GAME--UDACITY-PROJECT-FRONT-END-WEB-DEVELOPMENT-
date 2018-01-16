@@ -100,6 +100,8 @@ $('.card').click(function(event) {
 				count=1;
 				openCards.pop(value);
 				closeCards.pop(value);
+				totalMoves-=1;
+				moves-=17;
 		}	
 
 		else{
