@@ -108,8 +108,7 @@ $('.card').click(function(event) {
 		else{
  			totalMoves+=1;
  			let counter=1;
- 	
-// Flipping cards back to hidden position if two cards are not similar	
+ 	// Flipping cards back to hidden position if two cards are not similar	
 				function timeOut(){
 				counter--;
 				if (counter<=0) {
