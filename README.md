@@ -16,10 +16,10 @@
 * Each card has a picture hidden behind it.
 * Two cards will have same picture hidden behind them.
 * On the top parameter, deciding your winning factor will be visible:
-	** Top left position -- Star ratings.
-	** Left center -- Total number of moves made.
-	**	Right center -- Restart Button.
-	** Top right position -- Timer.
+	* Top left position -- Star ratings.
+	* Left center -- Total number of moves made.
+	* Right center -- Restart Button.
+	* Top right position -- Timer.
 
 ### How to Play??
 1.) To start the game - Click on the first card you want to open.
