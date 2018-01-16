@@ -1,7 +1,6 @@
 #FRONT-END NANODEGREE(UDACITY project)-MEMORY GAME
 
-This is a browser based game that has been created using -
-HTML, CSS ,jQuery, Javascript.
+#This is a browser based game that has been created using -HTML, CSS ,jQuery, Javascript.
 
 
 ##Running the Game
