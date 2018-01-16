@@ -67,6 +67,7 @@ h1{
     transform: rotateY(0);
     background: #02b3e4;
     cursor: default;
+    font-size: 33px
 }
 
 .deck .card.show{
@@ -115,10 +116,6 @@ h1{
     position: relative;
     margin: 0 0 0 .5em;
 }
-/*Dummy timer to view the time taken to win*/
-#dummy_timer{
-    display:none;
-}
 
 /* Styles for modal*/
 .modal {
@@ -140,3 +137,7 @@ h1{
     display: none;
 }
 
+/*Dummy timer to view the time taken to win*/
+#dummy_timer{
+    display:none;
+}
