@@ -62,7 +62,7 @@ $('.card').click(function(event) {
 			closeCards.pop(value1);}
 			count=0;
 			totalMoves-=1;
-			Moves-=17;
+			moves-=17;
  		}
  	
 	if (count===1) {
